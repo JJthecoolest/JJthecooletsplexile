@@ -1,5 +1,5 @@
 services:
 - type: web
-  name: educational-learning
+  name: JJthecoolestplexile
   env: docker
   plan: free
